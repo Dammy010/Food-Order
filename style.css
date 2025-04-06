@@ -130,7 +130,7 @@ h2 {
     color: #e74c3c;
 }
 
-#restartButton {
+#clearButton {
     margin-top: 15px;
     padding: 10px;
     background: linear-gradient(90deg, #e74c3c, #c0392b);
@@ -145,7 +145,7 @@ h2 {
     width: 100%;
 }
 
-#restartButton:hover {
+#clearButton:hover {
     background: linear-gradient(90deg, #c0392b, #a93226);
     transform: translateY(-2px);
 }
